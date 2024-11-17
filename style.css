@@ -1,0 +1,132 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    /* box-sizing: border-box; */
+    /* font-family: 'poppins', sans-serif; */
+}
+/* .hero{
+    width: 100%;
+    height: 100vh;
+    background-image: linear-gradient(rgb(14, 13, 13), rgb(151, 126, 126));
+    position: relative;
+padding:0 5% ;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: yellow;
+}
+nav{
+    width: 100%;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    bottom: 0px;
+    padding: 20px 8%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+}
+nav .logo{
+    width: 200px;
+    padding-bottom: 500px;
+    
+
+}
+nav ul li{
+    list-style: none;
+    display: inline-block;
+    margin-left: 40px;
+}
+nav ul li a{
+    text-decoration: none;
+    color: rgb(6, 12, 12);
+    font-size: 17px; display: inline-block;
+    color: black;
+    font-size: 24px;
+    border: 2px solid black;
+    padding: 14px 70px;
+    border-radius: 50px;
+    margin-bottom: 20px
+
+    
+}
+
+nav h1{
+    text-align: center;
+    margin-top:300px ;
+    padding-bottom: 500px;
+    padding-right: 80px;
+    font-size: 100px;
+    color: black;
+    font-weight: 600;
+}
+  .noway{
+    text-decoration: none;
+    display: inline-block;
+    color: black;
+    font-size: 24px;
+    border: 2px solid black;
+    padding: 14px 70px;
+    border-radius: 50px;
+    margin-top: 20px;
+ }  */
+ body{
+    background-color:#652703 ;
+    background-image: url(./b-removebg-preview.png);
+    
+ }
+ div {
+    display: flex;
+    gap: 10px;
+    flex: row;
+    background-color: rgb(7, 7, 7);
+    border-radius: 25px;
+    justify-content: center;
+    align-items: center;
+    height: 200px;
+    padding: 10px;
+
+
+}
+.pic1{
+    width: 100px;
+    height: 100px;
+    padding-right:250px ;
+}
+
+a {
+    text-decoration: none;
+    text-transform: capitalize;
+    color: rgb(245, 241, 245);
+    font-size: 25px;
+    justify-content: center;
+    padding-right: 15px;
+    text-decoration: underline;
+}
+
+h1 {
+    margin-right: 100px;
+    color: rgb(247, 242, 247);
+    font-size: 50px;
+    justify-content: center;
+text-transform: uppercase;
+padding-right: 250px;
+text-transform: capitalize;
+text-decoration: underline overline;
+}
+img{
+    margin-right: 30px;
+    text-align: start;
+    
+}
+.back-video{
+    position: absolute; 
+width:2000px;
+height:1000px ;
+    padding-bottom: 100px;
+ 
+  } 
+  .lorem{
+    padding-left: 900px;
+  }
